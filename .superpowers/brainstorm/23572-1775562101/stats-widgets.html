@@ -1,0 +1,58 @@
+<h2>Stats 위젯 선택</h2>
+<p class="subtitle">프로필에 넣을 위젯을 골라주세요 (복수 선택 가능)</p>
+
+<div class="options" data-multiselect>
+  <div class="option" data-choice="github-stats" onclick="toggleSelect(this)">
+    <div class="letter">A</div>
+    <div class="content">
+      <h3>GitHub Stats 카드</h3>
+      <p>총 커밋 수, 스타, PR, 이슈 등 종합 통계</p>
+      <div style="margin-top:8px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=nunoiland&show_icons=true&theme=tokyonight&hide_border=true" style="max-width:100%;border-radius:6px;" />
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="top-langs" onclick="toggleSelect(this)">
+    <div class="letter">B</div>
+    <div class="content">
+      <h3>Top Languages 카드</h3>
+      <p>가장 많이 쓴 언어 비율 표시</p>
+      <div style="margin-top:8px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunoiland&layout=compact&theme=tokyonight&hide_border=true" style="max-width:100%;border-radius:6px;" />
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="streak" onclick="toggleSelect(this)">
+    <div class="letter">C</div>
+    <div class="content">
+      <h3>Streak 카드</h3>
+      <p>연속 커밋 기록, 최장 스트릭 표시</p>
+      <div style="margin-top:8px;">
+        <img src="https://streak-stats.demolab.com?user=nunoiland&theme=tokyonight&hide_border=true" style="max-width:100%;border-radius:6px;" />
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="trophy" onclick="toggleSelect(this)">
+    <div class="letter">D</div>
+    <div class="content">
+      <h3>Trophy 카드</h3>
+      <p>GitHub 활동 기반 트로피 컬렉션</p>
+      <div style="margin-top:8px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=nunoiland&theme=tokyonight&no-frame=true&column=4" style="max-width:100%;border-radius:6px;" />
+      </div>
+    </div>
+  </div>
+
+  <div class="option" data-choice="visitor" onclick="toggleSelect(this)">
+    <div class="letter">E</div>
+    <div class="content">
+      <h3>방문자 카운터</h3>
+      <p>프로필 방문 횟수 뱃지로 표시</p>
+    </div>
+  </div>
+</div>
+
+<p class="subtitle" style="margin-top:16px;">실제 데이터가 반영된 미리보기입니다 (커밋이 적어 일부 카드는 비어 보일 수 있음)</p>

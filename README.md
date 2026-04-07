@@ -2,7 +2,7 @@
 
 <sub>BUILDER · SEOUL · YAA</sub>
 
-# Hi, I'm Nunoi 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E94560&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nunoi+%F0%9F%91%8B;Proof+over+talk.;Builder+%C2%B7+Seoul)](https://git.io/typing-svg)
 
 *"Proof over talk"*
 
@@ -50,4 +50,19 @@
 
 <img src="https://streak-stats.demolab.com?user=nunoiland&theme=tokyonight&hide_border=true" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nunoiland&theme=tokyo-night&hide_border=true&area=true" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nunoiland/nunoiland/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nunoiland/nunoiland/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/nunoiland/nunoiland/output/github-contribution-grid-snake.svg" />
+</picture>
+
 </div>
+
+---
+
+### ⏱ Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
