@@ -59,14 +59,3 @@
 </picture>
 
 </div>
-
----
-
-### ⏱ Coding Activity
-
-<!--START_SECTION:waka-->
-- Last 7 days: `0 secs`
-- Daily average: `0 secs`
-- Timezone: `Asia/Seoul`
-- Updated: `2026-04-08 18:16 UTC`
-<!--END_SECTION:waka-->
